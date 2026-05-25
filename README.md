@@ -32,7 +32,8 @@ Key mechanisms:
 
 ## 📂 Whitepaper
 
-You can also view them directly on GitHub — they will be rendered nicely.
+- [`timecoin-whitepaper-all-langs.txt`](./timecoin-whitepaper-all-langs.txt) – 多语言合订本 (All languages combined)
+(You can also view them directly on GitHub — they will be rendered nicely.)
 
 ---
 
