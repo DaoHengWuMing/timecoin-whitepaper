@@ -1,17 +1,20 @@
 
 
-================================================================================
-                    时币：时间本位去中心化货币白皮书
-         Time Coin: A Time-Based Decentralized Currency White Paper
-      Time Coin : Livre blanc d'une monnaie décentralisée basée sur le temps
-          Time Coin: Ein Weißbuch über eine zeitbasierte dezentrale Währung
-   Тайм-Коин: Белая книга децентрализованной валюты на основе времени
-          Nummus Temporis: Liber Albus Monetae Decentralis Tempori Innixae
-================================================================================
+### ================================================================================
+
+##                    时币：时间本位去中心化货币白皮书
+##         Time Coin: A Time-Based Decentralized Currency White Paper
+##      Time Coin : Livre blanc d'une monnaie décentralisée basée sur le temps
+##          Time Coin: Ein Weißbuch über eine zeitbasierte dezentrale Währung
+##   Тайм-Коин: Белая книга децентрализованной валюты на основе времени
+##          Nummus Temporis: Liber Albus Monetae Decentralis Tempori Innixae
+          
+### ================================================================================
 
 ------------------------------------------------------------------------
 天之道，损有余而补不足。
 Tian zhi dao, sun you yu er bu bu zu.
+
 — 道德经 第七十七章 / Tao Te Ching, Chapter 77 / Tao Te King, Kapitel 77 / Дао Дэ Цзин, Глава 77 / Tao Te Ching, Caput LXXVII
 ------------------------------------------------------------------------
 
