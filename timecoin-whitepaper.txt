@@ -30,7 +30,7 @@ Any operation such as resetting the system, formatting the device, or replacing 
 Even on the same physical device, the node identity and wallet generated after a reset are entirely new and independent, bearing no relation to the previous identity and wallet.
 All Time Coin in the original wallet, having permanently lost the ability to obtain signature authorization from the original PUF chip, can never again participate in any transaction, effectively equivalent to physical destruction. This is like throwing cash into a fire: the money itself has not vanished, but it can never be used by anyone again.
 Pure software virtual environments (without a physical PUF chip) cannot generate valid node identities and wallets.
-The node rights of all devices are completely equal: a 50RaspberryPi=a50RaspberryPi=a10,000 phone = a $100 million supercomputer.
+The node rights of all devices are completely equal: a 50 Raspberry Pi = a $10,000 phone = a $100 million supercomputer.
 Any device, at any location, receives exactly the same yield per unit of time.
 
 Timeline Lockdown:
