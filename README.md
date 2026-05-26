@@ -32,9 +32,15 @@ Key mechanisms:
 
 ## 📂 Whitepaper
 
-- [`timecoin-whitepaper-all-langs.md`](./timecoin-whitepaper-all-langs.md) – 多语言合订本 (All languages combined)
+Read the full whitepaper (multiple languages available):
+- [`timecoin-whitepaper-zh.md`](./timecoin-whitepaper-zh.md) – 中文
+- [`timecoin-whitepaper-en.md`](./timecoin-whitepaper-en.md) – English
+- [`timecoin-whitepaper-fr.md`](./timecoin-whitepaper-fr.md) – Français
+- [`timecoin-whitepaper-de.md`](./timecoin-whitepaper-de.md) – Deutsch
+- [`timecoin-whitepaper-ru.md`](./timecoin-whitepaper-ru.md) – Русский
+- [`timecoin-whitepaper-la.md`](./timecoin-whitepaper-la.md) – Latina
 
-(You can also view them directly on GitHub — they will be rendered nicely.)
+*(You can also view them directly on GitHub — they will be rendered nicely.)*
 
 ---
 
